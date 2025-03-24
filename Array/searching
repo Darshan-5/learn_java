@@ -1,0 +1,17 @@
+
+class Main {
+    public static void main(String[] args) {
+        //array initialize
+        int []arr = {1,55,8,7,6,377,5,4,9};
+        
+        
+        //Search
+        for (int i : arr){
+            if (i == 377){
+            System.out.println("Found");
+        }}
+        
+
+        
+    }
+}
